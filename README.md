@@ -1,8 +1,10 @@
 Independent side project.
 
+Coded in Python.
+
 Created a custom heatmap displaying Stephen Curry's hot zones from the 2023 season.
 
-dataset found here: https://www.kaggle.com/datasets/dhavalrupapara/nba-2023-player-shot-dataset
+Dataset found here: https://www.kaggle.com/datasets/dhavalrupapara/nba-2023-player-shot-dataset
 
 Notes
 - Cleaned basketball shot data
